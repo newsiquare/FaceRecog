@@ -2,6 +2,7 @@
 # Build
 
 1.下載兩個.py與images資料夾
+  我放的路徑位置, /Users/siquare/Desktop/Code/dlib/dlib-master/python_examples/
 
 2.執行 face_recognition_1070602MultiRecog_step1OK.py，會自動出現faceData.txt與label.txt
 
