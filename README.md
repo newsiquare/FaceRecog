@@ -15,11 +15,10 @@
   
     修改 faces_folder_path的路徑 <填上這兩個.py的路徑位置>
     
-4b.下載這模型，解壓縮後放到同一個路徑位置
-    
-    http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2
+4b.下載這模型, 放到同一個路徑位置
+      https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat
 
-4c.下載 shape_predictor_68_face_landmarks.dat
+4c.下載 shape_predictor_68_face_landmarks.dat, 並放到同一個路徑位置
    
     https://github.com/davisking/dlib-models
 
