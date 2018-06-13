@@ -19,6 +19,10 @@
     
     http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2
 
+4c.下載 shape_predictor_68_face_landmarks.dat
+   
+    https://github.com/davisking/dlib-models
+
 5.執行 
     
     face_recognition_1070602MultiRecog_step2OK.py
